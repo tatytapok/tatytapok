@@ -1,4 +1,9 @@
-# Hi, I'm Ekaterina👋
+# Hi, I'm Ekaterina!
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Python](https://img.shields.io/badge/Python-green)
+![Figma](https://img.shields.io/badge/Figma-purple)
 
 Frontend Developer with a strong UI/UX design background.
 
@@ -69,3 +74,4 @@ Collection of ML experiments and study materials created during university studi
 ## 📫 Contact
 
 - Email: uruipkinaev@gmail.com
+
