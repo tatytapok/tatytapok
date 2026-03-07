@@ -1,6 +1,6 @@
 # Hi, I'm Ekaterina👋
 
-Junior Frontend Developer with a strong UI/UX design background.
+Frontend Developer with a strong UI/UX design background.
 
 I enjoy building clean, responsive, and user-friendly interfaces while combining **design thinking and frontend development**.
 
@@ -58,9 +58,11 @@ Collection of reusable **HTML, CSS and JavaScript UI elements** and layout exper
 
 ---
 
-## 📊 GitHub Stats
+### Machine Learning Notes
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatytapok&show_icons=true)
+Collection of ML experiments and study materials created during university studies.
+
+🔗 https://github.com/tatytapok/ml-study-notes
 
 ---
 
