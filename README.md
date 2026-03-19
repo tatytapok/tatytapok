@@ -55,6 +55,16 @@ Tech: HTML, CSS, JavaScript
 
 ---
 
+### Multi Timer
+A web-based multi-timer application for managing multiple timers simultaneously. Focused on clean UI, responsive layout, and interactive user experience.
+
+Tech: HTML, CSS, JavaScript
+
+🔗 https://github.com/tatytapok/multi-timer
+
+---
+
+
 ### Frontend UI Snippets
 
 Collection of reusable **HTML, CSS and JavaScript UI elements** and layout experiments.
